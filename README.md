@@ -1,0 +1,4 @@
+- Install requirements with pip `pip install -r requirements.txt`
+- Create a Project in google cloud console and register an api key in "apis and services">credentials
+- Update .env file with api_key="" for executing apikey python script
+- Create credentials for OAuth and download client_secrets json file
